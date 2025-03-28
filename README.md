@@ -1,4 +1,4 @@
-# assignment-2-pf-# # 💳 Advanced Loan EMI Calculator – Streamlit App
+# assignment-2-pf- 💳 Advanced Loan EMI Calculator – Streamlit App
 
 ## 📌 Course: AF3005 – Programming for Finance
 **Instructor:** Dr. Usama Arshad  
@@ -49,6 +49,6 @@ This Streamlit web app calculates Equated Monthly Installment (EMI) for loans an
 This project is licensed under the MIT License.
 
 ---
-🚀 Developed by **Mahnoor Shaihd ** | Finance Automation | Instructor: Dr. Usama Arshad
+🚀 Developed by Mahnoor Shaihd  | Finance Automation | Instructor: Dr. Usama Arshad
 
  
